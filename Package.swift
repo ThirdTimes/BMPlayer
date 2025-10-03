@@ -30,6 +30,7 @@ let package = Package(
                 "SnapKit",
                 "NVActivityIndicatorView"
             ],
+            path: "Sources/BMPlayer",
             resources: [
                 .process("Pod_Asset_BMPlayer.xcassets")
             ]),
