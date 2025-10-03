@@ -1,0 +1,4 @@
+module BMPlayer {
+    header "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayer.build/BMPlayer-Swift.h"
+    requires objc
+}

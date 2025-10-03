@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/master.swiftdeps"
+  },
+  "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/Tests/BMPlayerTests/BMPlayerTests.swift": {
+    "dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/BMPlayerTests.d",
+    "object": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/BMPlayerTests.swift.o",
+    "swiftmodule": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/BMPlayerTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/BMPlayerTests.swiftdeps"
+  },
+  "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/Tests/BMPlayerTests/XCTestManifests.swift": {
+    "dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/XCTestManifests.d",
+    "object": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/XCTestManifests.swift.o",
+    "swiftmodule": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/XCTestManifests~partial.swiftmodule",
+    "swift-dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerTests.build/XCTestManifests.swiftdeps"
+  }
+}

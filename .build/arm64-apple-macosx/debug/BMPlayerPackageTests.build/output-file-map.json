@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerPackageTests.build/master.swiftdeps"
+  },
+  "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerPackageTests.build/runner.d",
+    "object": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/gitburning/Desktop/Project/erxiangheyi/Project/GTP4oDrawProject/Demo/BMPlayer/.build/arm64-apple-macosx/debug/BMPlayerPackageTests.build/runner.swiftdeps"
+  }
+}
